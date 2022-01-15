@@ -1,4 +1,4 @@
-greenline-android
+GCentre.lk-Android Application
 ================
 
 This is the native Android code used by https://greenline.lk
